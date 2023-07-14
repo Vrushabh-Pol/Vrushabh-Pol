@@ -1,5 +1,5 @@
 <!-----<img align="centre" alt="GIF" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif?raw=true" width="1000" height="320" /> ---->
-<h2><img src ="https://bestanimations.com/uploads/gifs/373846046large-beating-heart-gif-animation3.gif" width="50">DATA </h2> 
+<h2 align = "center"> DATA + ANALYSIS = <img src ="https://bestanimations.com/uploads/gifs/373846046large-beating-heart-gif-animation3.gif" width="30"></h2> 
 <h2 align="center">
  <a>I Think, I Love Data, More Than Myself.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
 </h2>
