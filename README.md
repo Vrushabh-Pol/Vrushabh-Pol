@@ -177,18 +177,15 @@ With my diverse skill set spanning data science, data analysis, web development,
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="./img/ando.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://www.nicepng.com/png/detail/764-7642110_android-logo-android.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>android
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/crom.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://www.nicepng.com/png/detail/189-1897150_final-clip-art-at-clker-com-vector-windows.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Chrome OS
-
-    
-    </tr>
+      <br>Windows server
 </table>
 
 > Software and tools
