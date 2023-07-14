@@ -175,11 +175,7 @@ With my diverse skill set spanning data science, data analysis, web development,
       </a>
       <br>Raspberry pi
     </td>
-    <td >
-    </td>
-    <td 
-    </td>
-    <td align="center" width="96">
+   <td align="center" width="96">
       <a href="#">
         <img src="./img/ando.png" width="48" height="48" alt="TypeScript" />
       </a>
@@ -190,7 +186,8 @@ With my diverse skill set spanning data science, data analysis, web development,
         <img src="./img/crom.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Chrome OS
-    </td>
+
+    
     </tr>
 </table>
 
