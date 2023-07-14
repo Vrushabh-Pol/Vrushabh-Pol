@@ -1,4 +1,4 @@
-<img align="centre" alt="GIF" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif?raw=true" width="1000" height="320" />
+<!-----<img align="centre" alt="GIF" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif?raw=true" width="1000" height="320" /> ---->
  
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
@@ -14,7 +14,7 @@
 
  <br>
   
-Hi, I'm [Vrushabh Pol](http://vrushabh-pol), I am a multifaceted professional with expertise in various fields. As a data scientist, I have a deep understanding of statistical analysis and machine learning techniques. I excel at extracting meaningful insights from complex datasets and leveraging them to drive data-driven decision-making. Additionally, my skills as a data analyst allow me to analyze and interpret data, uncovering patterns and trends that can enhance business strategies and optimize processes.
+Hi, I'm [Vrushabh Pol](http://vrushabh-pol), I am a multifaceted professional with expertise in various fields. As a <p colour ="red">data scientist</p>, I have a deep understanding of statistical analysis and machine learning techniques. I excel at extracting meaningful insights from complex datasets and leveraging them to drive data-driven decision-making. Additionally, my skills as a data analyst allow me to analyze and interpret data, uncovering patterns and trends that can enhance business strategies and optimize processes.
 
 In the realm of web development and software development, I possess a strong command of programming languages and frameworks. I can create dynamic and interactive websites, ensuring a seamless user experience. My expertise extends to developing robust software applications, employing agile methodologies and incorporating cutting-edge technologies to deliver efficient and scalable solutions.
 
