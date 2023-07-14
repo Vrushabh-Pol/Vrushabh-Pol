@@ -1,14 +1,9 @@
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
 <h2 align="center">
-  <a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Vrushabh+Pol;I+am+Data+Scientist;I+am+Data+Analyst;I+am+a+Software+Developer;I+am+a+Web+Developer;I+am+an+Ethical+Hacker;I+am+a+Cyber+Expert"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Vrushabh+Pol;I+am+Data+Scientist;I+am+Data+Analyst;I+am+a+Software+Developer;I+am+a+Web+Developer;I+am+an+Ethical+Hacker;I+am+a+Cyber+Expert"></a>
 </h2>
 
-
-<h3 align="center">
-Welcome to Vrushab's profile! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
 
  
