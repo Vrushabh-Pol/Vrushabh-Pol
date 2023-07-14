@@ -43,9 +43,9 @@ With my diverse skill set spanning data science, data analysis, web development,
 >Professional Certificates
 
 <ul>
-  <li>Nasscomm Data Analytics Certificate</li>
-  <li>IBM Data Scientist Certificate</li>
-  <li>ExcelR Data Analytics Certificate</li>
+  <li>Data Scientist & Analytics Certificate From NASSCOMM , IBM and ExcelR</li>
+  <li>Ethical Hacking Certificate From Udemy</li>
+  <li>Master in Python 3 Certificate From Skill-india</li>
 </ul>
 
 
