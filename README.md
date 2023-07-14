@@ -117,13 +117,13 @@ With my diverse skill set spanning data science, data analysis, web development,
       <a href="#">
         <img src="https://www.nicepng.com/png/detail/141-1415492_bootstrap-bootstrap-4-icon-png.png" width="48" height="48" alt="Python" />
       </a>
-      <br>bootstrap
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://www.nicepng.com/png/detail/31-315418_google-launches-final-preview-of-flutter-its-android.png" width="48" height="48" alt="Golang" />
       </a>
-      <br>flutter
+      <br>Flutter
     </td>
 
 </table>
@@ -134,15 +134,15 @@ With my diverse skill set spanning data science, data analysis, web development,
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/github.png" width="48" height="48" alt="C#" />
+        <img src="https://www.nicepng.com/png/detail/401-4010153_microsoft-logo-azure-microsoft-azure-icon.png" width="48" height="48" alt="C#" />
       </a>
-      <br>GitHub Page
+      <br>Microsoft Azure
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://www.nicepng.com/png/detail/245-2459464_mysql-mogra-db-my-sql-logo-png.png" width="48" height="48" alt="Python" />
       </a>
-      <br>my-sql
+      <br>My-sql
     </td>
     </tr>
 </table>
@@ -153,39 +153,31 @@ With my diverse skill set spanning data science, data analysis, web development,
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/windo.png" width="48" height="48" alt="C#" />
+        <img src="https://www.nicepng.com/png/detail/142-1427163_02-oct-2014-icon-windows-10-png.png" width="48" height="48" alt="C#" />
       </a>
       <br>Windows
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://www.nicepng.com/png/detail/27-276617_23-oct-ubuntu-turns-10-ubuntu-16-logo.png" width="48" height="48" alt="Python" />
       </a>
-      <br>Ret-Hat
+      <br>Ubuntu
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://www.nicepng.com/png/detail/201-2015642_kali-linux-dragon-png.png" width="48" height="48" alt="Golang" />
       </a>
-      <br>Debian
+      <br>Kali Linux
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="/img/pi.png" width="48" height="48" alt="shark" />
+        <img src="https://www.nicepng.com/png/detail/898-8989683_raspberry-pi-icon-raspberry-pi.png" width="48" height="48" alt="shark" />
       </a>
       <br>Raspberry pi
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/kali.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>kali
+    <td >
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/arch.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>ARCH
+    <td 
     </td>
     <td align="center" width="96">
       <a href="#">
