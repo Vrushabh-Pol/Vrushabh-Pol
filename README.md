@@ -7,12 +7,10 @@
 </h2>
 
 
-
+<a align = "centre">
   ![](https://komarev.com/ghpvc/?username=Vrushabh-Pol&color=6aa6f8)
   <img  src="https://custom-icon-badges.herokuapp.com/badge/+91--9518586837-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/naemazam/custom-icon-badges?logo=tag&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dnaemazam%26type%3Djson"/></a>
+
  <br>
   
 Hi, I'm [Naem Azam](http://naemazam.com/), a passionate self-taught Programmer, an open-source enthusiast, and a maintainer. My passion for Systems lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
