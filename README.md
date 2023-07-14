@@ -1,3 +1,5 @@
+![image](https://github.com/Vrushabh-Pol/Vrushabh-Pol/assets/126774806/90066e12-d5e1-477f-a6d9-f431b6cddc38)
+ 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
