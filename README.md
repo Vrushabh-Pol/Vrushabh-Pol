@@ -1,27 +1,16 @@
-- 👋 Hi, I’m @Vrushabh-Pol
-- 👀 I’m interested in Data Science And Data Analytics.
-- 🌱 I’m currently learning AWS and Azure.
-- 🕵️‍♂️ I'm currently intern @ " Centre For Police Research ( C.P.R ) Pune " as a Data Scientist For Cyber Crime.
-- 💞️ I’m looking to collaborate on Data Scientist position.
-- 📫 My contact Number 9518586837 , Email : vrushabh2810@gmail.com
-
-<!---
-Vrushabh-Pol/Vrushabh-Pol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-[![MasterHead](00086-desk-anim-v0.3.gif)]()
-<h3 align="center">
-Welcome to Vrushab's profile! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
 <h2>
   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Vrushabh+Pol;I+am+Data+Scientist;I+am+Data+Analyst;I+am+a+Software+Developer;I+am+a+Web+Developer;I+am+an+Ethical+Hacker;I+am+a+Cyber+Expert"></a>
 </h2>
+
+
+<h3 align="center">
+Welcome to Vrushab's profile! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+
  
  <!-- platfrom -->
  <p align="center">
