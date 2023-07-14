@@ -24,7 +24,7 @@ As a [Cyber expert] and [Ethical hacker], I am well-versed in identifying vulner
 
 With my diverse skill set spanning data science, data analysis, web development, software development, and cybersecurity, I am capable of addressing complex challenges from multiple angles. Whether it's unraveling intricate data puzzles, crafting innovative web and software solutions, or fortifying digital infrastructures, I am dedicated to leveraging my expertise to drive tangible results and make a positive impact in the technological landscape.
 
-  <img align="right" alt="GIF" src="https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif?raw=true" width="500" height="320" />
+  <!-----<img align="right" alt="GIF" src="https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif?raw=true" width="500" height="320" /> ----->
   
   
   
@@ -58,13 +58,13 @@ With my diverse skill set spanning data science, data analysis, web development,
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/cyberly.png" width="48" height="48" alt="c" />
+        <img src="https://nasscom.in/aisummit/images/Logo-NASSCOM-Maroon-p-500.png" width="100" height="48" alt="c" />
       </a>
-      <br>CompTIA Network+
+      <br>Data Scientists & Analyst.
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="c" />
+        <img src="./img/redhat-original.svg" width="100" height="48" alt="c" />
       </a>
       <br>Linux System Administration
     </td>
