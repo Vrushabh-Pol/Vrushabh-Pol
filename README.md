@@ -1,4 +1,4 @@
-![image](https://github.com/Vrushabh-Pol/Vrushabh-Pol/assets/126774806/5d26f153-a489-4908-b7cc-14fe96316b1b)<!-----<img align="centre" alt="GIF" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif?raw=true" width="1000" height="320" /> ---->
+<!-----<img align="centre" alt="GIF" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif?raw=true" width="1000" height="320" /> ---->
  
 <h2 align="center">
  <a>I THINK I <img src ="https://bestanimations.com/uploads/gifs/373846046large-beating-heart-gif-animation3.gif" width="50"> TECHNOLOGY , MORE THAN MYSELF.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
@@ -289,5 +289,5 @@ With my diverse skill set spanning data science, data analysis, web development,
   <h1 align="center">Summary Of My Github Live Graph</h1>
 </p>  
 
-[![contributions](https://activity-graph.herokuapp.com/graph?username=Vrushabh-Pol&theme=xcode&area=true)](https://github.com/Vrushabh-Pol)
+[![](https://activity-graph.herokuapp.com/graph?username=Vrushabh-Pol&theme=xcode&area=true)](https://github.com/Vrushabh-Pol)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vrushabh-Pol&theme=github_dark)
