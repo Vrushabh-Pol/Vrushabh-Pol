@@ -42,36 +42,33 @@ With my diverse skill set spanning data science, data analysis, web development,
 
 >Professional Certificates
 
-<table >
-
+<table>
+  <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://excelrcom.b-cdn.net/assets/media/general/logo_white_204.png" width="300" height="100" alt="#" />
+        <img src="" width="48" height="48" alt="#" />
       </a>
-      <br>Data Scientist
+      <br>Data Scietist & Analytics.
     </td>
-
     <td align="center" width="96">
       <a href="#">
-        <img src="https://nasscom.in/aisummit/images/Logo-NASSCOM-Maroon-p-500.png" width="100" height="48" alt="Python" />
+        <img src="./img/google.png" width="48" height="48" alt="Python" />
       </a>
-      <br>Data Scientists & Analyst.
+      <br>IT Automation with Python Professional
     </td>
-
     <td align="center" width="96">
       <a href="#">
-        <img src="https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-png-transparent-svg-vector-bie-supply-3.png" width="100" height="48" alt="c" />
+        <img src="./img/cyberly.png" width="48" height="48" alt="c" />
       </a>
-      <br>Data Scientist & Analytics.
+      <br>CompTIA Network+
     </td>
-   
     <td align="center" width="96">
       <a href="#">
-        <img src="https://w7.pngwing.com/pngs/193/685/png-transparent-udemy-new-logo-tech-companies-thumbnail.png" width="100" height="48" alt="c" />
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="c" />
       </a>
-      <br>Ethical Hacking.
+      <br>Linux System Administration
     </td>
-
+     </tr>
 </table>
 
 
