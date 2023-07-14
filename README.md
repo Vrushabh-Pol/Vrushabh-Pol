@@ -56,20 +56,21 @@ With my diverse skill set spanning data science, data analysis, web development,
       </a>
       <br>Data Scientists & Analyst.
     </td>
-       <td align="center" width="96">
-      <a href="#">
-        <img src="https://w7.pngwing.com/pngs/193/685/png-transparent-udemy-new-logo-tech-companies-thumbnail.png" width="100" height="48" alt="c" />
-      </a>
-      <br>Ethical Hacking.
-    </td>
-     </tr>
+       <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-png-transparent-svg-vector-bie-supply-3.png" width="100" height="48" alt="c" />
       </a>
       <br>Data Scientist & Analytics.
     </td>
-
+       <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://w7.pngwing.com/pngs/193/685/png-transparent-udemy-new-logo-tech-companies-thumbnail.png" width="100" height="48" alt="c" />
+      </a>
+      <br>Ethical Hacking.
+    </td>
+     </tr>
 </table>
 
 
