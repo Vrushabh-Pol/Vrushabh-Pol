@@ -59,61 +59,48 @@ With my diverse skill set spanning data science, data analysis, web development,
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/bash.png" width="48" height="48" alt="#" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" width="48" height="48" alt="#" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/c.png" width="48" height="48" alt="c" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="/img/c++.png" width="48" height="48" alt="Jsonnet" />
+        <img src="https://www.nicepng.com/png/detail/981-9813175_c-logo-c-programming-language-logo.png" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/m.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>markdown
+      <br>php
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="./img/html.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png?20170517184425" width="48" height="48" alt="TypeScript" />
       </a>
       <br>HTML
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="./img/sql.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://banner2.cleanpng.com/20171202/4a0/database-free-download-png-5a22aad4e16b56.2847272415122213969233.jpg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>SQL
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/power.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/php.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    </tr>
+
 </table>
 
 > Frameworks and libraries
