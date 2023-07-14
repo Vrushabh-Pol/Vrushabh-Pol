@@ -12,14 +12,13 @@
 
  <br>
   
-Hi, I'm [Naem Azam](http://naemazam.com/), a passionate self-taught Programmer, an open-source enthusiast, and a maintainer. My passion for Systems lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
+Hi, I'm [Vrushabh Pol](http://vrushabh-pol), I am a multifaceted professional with expertise in various fields. As a data scientist, I have a deep understanding of statistical analysis and machine learning techniques. I excel at extracting meaningful insights from complex datasets and leveraging them to drive data-driven decision-making. Additionally, my skills as a data analyst allow me to analyze and interpret data, uncovering patterns and trends that can enhance business strategies and optimize processes.
 
+In the realm of web development and software development, I possess a strong command of programming languages and frameworks. I can create dynamic and interactive websites, ensuring a seamless user experience. My expertise extends to developing robust software applications, employing agile methodologies and incorporating cutting-edge technologies to deliver efficient and scalable solutions.
 
-I’m a research scientist working to better understand About AI. My expertise includes Linux System Administration, IT Support Specialist, Web development, and implementation of AI research tools. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. My Friends would describe me as a driven, resourceful individual who maintains a positive, proactive attitude when faced with adversity. Currently, I’m seeking opportunities that will allow me to develop and promote technologies that benefit Companies. Specific fields of interest include Open-source Development, BlockChain, Networking, Linux OS Development, Digital forensics, System analysis, and Automotion.
+As a cyber expert and ethical hacker, I am well-versed in identifying vulnerabilities and securing computer systems and networks. I have an extensive knowledge of cybersecurity principles and best practices, enabling me to proactively safeguard sensitive information and mitigate risks. I stay up-to-date with the latest security trends and emerging threats to ensure the highest level of protection for digital assets.
 
-
-I am also a freelancer and have been working online for more than 3 years. I have completed 100+ projects in my freelancing career. The most essential feature of me is that I am a reliable worker dedicating myself fully to my projects. Just handover your tasks to me and take a rest
-
+With my diverse skill set spanning data science, data analysis, web development, software development, and cybersecurity, I am capable of addressing complex challenges from multiple angles. Whether it's unraveling intricate data puzzles, crafting innovative web and software solutions, or fortifying digital infrastructures, I am dedicated to leveraging my expertise to drive tangible results and make a positive impact in the technological landscape.
 
   <img align="right" alt="GIF" src="https://github.com/naemazam/naemazam/blob/main/new-Converted.gif?raw=true" width="500" height="320" />
   
