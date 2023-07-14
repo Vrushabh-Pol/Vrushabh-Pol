@@ -20,7 +20,7 @@ As a cyber expert and ethical hacker, I am well-versed in identifying vulnerabil
 
 With my diverse skill set spanning data science, data analysis, web development, software development, and cybersecurity, I am capable of addressing complex challenges from multiple angles. Whether it's unraveling intricate data puzzles, crafting innovative web and software solutions, or fortifying digital infrastructures, I am dedicated to leveraging my expertise to drive tangible results and make a positive impact in the technological landscape.
 
-  <img align="right" alt="GIF" src="https://stemettes.org/zine/articles/how-my-love-of-maths-led-to-my-career-in-data-science-at-mi6/?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif?raw=true" width="500" height="320" />
   
   
   
