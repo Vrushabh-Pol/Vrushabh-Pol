@@ -46,7 +46,7 @@ With my diverse skill set spanning data science, data analysis, web development,
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://excelrcom.b-cdn.net/assets/media/general/logo_white_204.png" width="100" height="48" alt="#" />
+        <img src="https://excelrcom.b-cdn.net/assets/media/general/logo_white_204.png" width="300" height="100" alt="#" />
       </a>
       <br>Data Scientist
     </td>
