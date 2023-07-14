@@ -109,53 +109,23 @@ With my diverse skill set spanning data science, data analysis, web development,
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/ardoino.png" width="48" height="48" alt="C#" />
+        <img src="https://www.nicepng.com/png/detail/207-2079566_arduino-1-logo-png-transparent-arduino-logo-png.png" width="48" height="48" alt="C#" />
       </a>
       <br>Arduino
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Python" />
+        <img src="https://www.nicepng.com/png/detail/141-1415492_bootstrap-bootstrap-4-icon-png.png" width="48" height="48" alt="Python" />
       </a>
       <br>bootstrap
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/flutter.png" width="48" height="48" alt="Golang" />
+        <img src="https://www.nicepng.com/png/detail/31-315418_google-launches-final-preview-of-flutter-its-android.png" width="48" height="48" alt="Golang" />
       </a>
       <br>flutter
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="img/react-original.svg" width="48" height="48" alt="react" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/github.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>GitHub-Action
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./img/wordpress.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Wordpress
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./img/flask.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/qt.png" width="48" height="48" alt="qt" />
-      </a>
-      <br>QT
-    </td>
-    </tr>
+
 </table>
 
 > Databases and cloud hosting
