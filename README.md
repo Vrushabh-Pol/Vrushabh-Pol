@@ -50,6 +50,7 @@ With my diverse skill set spanning data science, data analysis, web development,
       </a>
       <br>Data Scientist
     </td>
+   <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="https://nasscom.in/aisummit/images/Logo-NASSCOM-Maroon-p-500.png" width="100" height="48" alt="Python" />
