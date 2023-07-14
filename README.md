@@ -2,30 +2,17 @@
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Vrushabh+Pol;I+am+Data+Scientist;I+am+Data+Analyst;I+am+a+Software+Developer;I+am+a+Web+Developer;I+am+an+Ethical+Hacker;I+am+a+Cyber+Expert">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Vrushabh+Pol;I+am+a+Data+Scientist;I+am+a+Data+Analyst;I+am+a+Software+Developer;I+am+a+Web+Developer;I+am+an+Ethical+Hacker;I+am+a+Cyber+Expert">
  </a>
 </h2>
 
 
  <!-- platfrom -->
  <p align="center">
-  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="#"><img width="32px" alt="bilibili" title="Bilibili" src="./img/bilibili.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/naemazam/HackerRank-Solutions"><img width="32px" alt="hacker Rank" title="Hackerrank" src="./img/hr.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="CodePen" title="codepen" src="./img/codepen.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="stac.PNG"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@naemazam"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/theterminalboy"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
+
+  <a href="https://github.com/"><img width="32px" alt="Github Repo" title="Github" src="https://1000logos.net/github-logo/"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; <!-- this line used for giving space between 2 images-->
+  
 </p>
 
 
