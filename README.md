@@ -10,7 +10,7 @@
  <!-- platfrom -->
  <p align="center">
 
-  <a href="https://github.com/"><img width="32px" alt="Github Repo" title="Github" src="https://1000logos.net/github-logo/"/></a>
+  <a href="https://github.com/"><img width="32px" alt="Github Repo" title="Github" src=""/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; <!-- this line used for giving space between 2 images-->
   
 </p>
