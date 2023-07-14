@@ -1,12 +1,11 @@
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Vrushabh+Pol;I+am+Data+Scientist;I+am+Data+Analyst;I+am+a+Software+Developer;I+am+a+Web+Developer;I+am+an+Ethical+Hacker;I+am+a+Cyber+Expert"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Vrushabh+Pol;I+am+Data+Scientist;I+am+Data+Analyst;I+am+a+Software+Developer;I+am+a+Web+Developer;I+am+an+Ethical+Hacker;I+am+a+Cyber+Expert">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
 </h2>
 
 
-
- 
  <!-- platfrom -->
  <p align="center">
   <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
