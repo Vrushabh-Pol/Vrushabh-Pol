@@ -32,32 +32,13 @@ With my diverse skill set spanning data science, data analysis, web development,
 
 - 👨‍💻 All of my projects are available at [Projects](https://Vrushabh-Pol.github.io/My-Projects)
 
-- 💬 Ask me about <h2>Python,Html,Css,Data Grabbing, Data Collection, Software designing, Location Tracing, Android Hacking</h2>
+- 💬 Ask me about Python, Html, Css, Data Grabbing, Data Collection, Software designing, Location Tracing, Android Hacking.
 
 - 👨‍💻 Hire Me as [Freelancer](https://blackstonesoftwares.000webhostapp.com/index.html)
 
-
-
- # Research 
-  
-   <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0009-0008-9398-3902"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0009-0008-9398-3902
-    </a>
-    
- [Science Open ](https://www.scienceopen.com/user/naemazamchowdhury)
  
 
-<h2 align="left" id="naemazam">Certificates</h2>
+<h2 align="left" id="Vrushabh-Pol">Certificates</h2>
 
 >Professional Certificates
 
@@ -65,9 +46,9 @@ With my diverse skill set spanning data science, data analysis, web development,
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/google.png" width="48" height="48" alt="#" />
+        <img src="https://excelrcom.b-cdn.net/assets/media/general/logo_white_204.png" width="48" height="48" alt="#" />
       </a>
-      <br>IT Support Proffetional
+      <br>Data Scientist
     </td>
     <td align="center" width="96">
       <a href="#">
