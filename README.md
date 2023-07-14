@@ -42,7 +42,7 @@ With my diverse skill set spanning data science, data analysis, web development,
 
 >Professional Certificates
 
-<table align = "center">
+<table >
   <tr>
     <td align="center" width="96">
       <a href="#">
