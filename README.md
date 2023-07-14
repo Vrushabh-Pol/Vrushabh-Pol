@@ -20,20 +20,19 @@ As a cyber expert and ethical hacker, I am well-versed in identifying vulnerabil
 
 With my diverse skill set spanning data science, data analysis, web development, software development, and cybersecurity, I am capable of addressing complex challenges from multiple angles. Whether it's unraveling intricate data puzzles, crafting innovative web and software solutions, or fortifying digital infrastructures, I am dedicated to leveraging my expertise to drive tangible results and make a positive impact in the technological landscape.
 
-  <img align="right" alt="GIF" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif?raw=true" width="500" height="320" />
   
   
   
-- 🔭 I’m currently working on [Research Work](https://naemazam.github.io/Researcher/)
+- 🔭 I’m currently working at [Centre For Police Research ( C.P.R )](https://cprpune.org/)
 
-- 👨‍💻 All of my projects are available at [Projects](https://naemazam.github.io/My-Projects)
+- 👨‍💻 All of my projects are available at [Projects](https://Vrushabh-Pol.github.io/My-Projects)
 
 - 💬 Ask me about **Linux, Python,AI, CMD, PowerShell**
 
-- 📄 Know about my [Experiences](https://naemazam.github.io/#resume)
-- 👨‍💻 Hire Me as [Freelancer](http://naemazam.com/)
+- 👨‍💻 Hire Me as [Freelancer](https://blackstonesoftwares.000webhostapp.com/index.html)
 
-- ⚡ Fun fact **I Think I love my computer, more then myself.**
+- ⚡ Fun fact **I Think I love technology, more then myself.**
 
 
  # Research 
