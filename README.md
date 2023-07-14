@@ -6,16 +6,6 @@
  </a>
 </h2>
 
-
- <!-- platfrom -->
- <p align="center">
-
-  <a href="https://github.com/"><img width="32px" alt="Github Repo" title="Github" src=""/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; <!-- this line used for giving space between 2 images-->
-  
-</p>
-
-
 <!-- social -->
  <p align="center">
    <a href="http://naemazam.github.io/"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
