@@ -1,7 +1,7 @@
 <!-----<img align="centre" alt="GIF" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif?raw=true" width="1000" height="320" /> ---->
  
 <h2 align="center">
- <a>I THINK I <img src ="https://bestanimations.com/uploads/gifs/373846046large-beating-heart-gif-animation3.gif" width="50"> TECHNOLOGY , MORE THAN MYSELF.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>a>
+ <a>I THINK I <img src ="https://bestanimations.com/uploads/gifs/373846046large-beating-heart-gif-animation3.gif" width="50"> TECHNOLOGY , MORE THAN MYSELF.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
 </h2>
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
@@ -32,7 +32,7 @@ With my diverse skill set spanning data science, data analysis, web development,
 
 - 👨‍💻 All of my projects are available at [Projects](https://Vrushabh-Pol.github.io/My-Projects)
 
-- 💬 Ask me about **Linux, Python,AI, CMD, PowerShell**
+- 💬 Ask me about <h2>Python,Html,Css,Data Grabbing, Data Collection, Software designing, Location Tracing, Android Hacking</h2>
 
 - 👨‍💻 Hire Me as [Freelancer](https://blackstonesoftwares.000webhostapp.com/index.html)
 
