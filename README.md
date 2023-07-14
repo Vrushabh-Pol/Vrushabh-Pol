@@ -6,39 +6,10 @@
  </a>
 </h2>
 
-<!-- social -->
- <p align="center">
-   <a href="http://naemazam.github.io/"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Wechat"><img width="32px" src="./img/wechat.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/naemazamankon" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/naemazamchowdhury" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Douyin"><img width="32px" src="./img/tiktoc.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-</p>
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCTE1zfR8xpBXqgjvOgH0Nfw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCTE1zfR8xpBXqgjvOgH0Nfw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
-  <a href="https://github.com/naemazam">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/naemazam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
-</p>
 
-  ![](https://komarev.com/ghpvc/?username=naemazam&color=6aa6f8)
-  <img  src="https://custom-icon-badges.herokuapp.com/badge/+1-518--468--2511-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
+  ![](https://komarev.com/ghpvc/?username=Vrushabh-Pol&color=6aa6f8)
+  <img  src="https://custom-icon-badges.herokuapp.com/badge/+91--9518586837-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/naemazam/custom-icon-badges?logo=tag&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dnaemazam%26type%3Djson"/></a>
