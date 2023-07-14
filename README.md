@@ -26,7 +26,7 @@ With my diverse skill set spanning data science, data analysis, web development,
 
   <!-----<img align="right" alt="GIF" src="https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif?raw=true" width="500" height="320" /> ----->
   
-  
+>My Current Info.  
   
 - 🔭 I’m currently working at [Centre For Police Research ( C.P.R )](https://cprpune.org/)
 
