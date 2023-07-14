@@ -1,4 +1,4 @@
-![image](https://github.com/Vrushabh-Pol/Vrushabh-Pol/assets/126774806/90066e12-d5e1-477f-a6d9-f431b6cddc38)
+![image](https://github.com/Vrushabh-Pol/Vrushabh-Pol/assets/126774806/a494d5c8-f364-4ec3-b5f4-9d046f932e0f)
  
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
