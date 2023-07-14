@@ -1,6 +1,8 @@
 <!-----<img align="centre" alt="GIF" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif?raw=true" width="1000" height="320" /> ---->
  
-<a align="centre">I THINK I LOVE TECHNOLOGY , MORE THAN MYSELF.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
+<h2 align="centre">
+ <a>I THINK I LOVE TECHNOLOGY , MORE THAN MYSELF.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>a>
+</h2>
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
 <h2 align="center">
