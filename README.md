@@ -12,7 +12,13 @@
 
   ![](https://komarev.com/ghpvc/?username=Vrushabh-Pol&color=6aa6f8)
   <img  src="https://custom-icon-badges.herokuapp.com/badge/+91--9518586837-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
+<p align = "center">
+<a target="_blank" href="https://www.linkedin.com/in/vrushabh-pol-97b189215/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="48" height="48" alt="shark" /></a>
+<a target="_blank" href="https://www.instagram.com/deadly_thunder_7/"><img src="https://cdn.pixabay.com/photo/2016/09/17/07/03/instagram-1675670_1280.png" width="48" height="48" alt="shark" /></a>
 
+</p>
+<br>
+ <br>
  <br>
   
 Hi, I'm [Vrushabh Pol](http://vrushabh-pol), I am a multifaceted professional with expertise in various fields. As a [Data Scientist](), I have a deep understanding of statistical analysis and machine learning techniques. I excel at extracting meaningful insights from complex datasets and leveraging them to drive data-driven decision-making. Additionally, my skills as a [Data Analyst]() allow me to analyze and interpret data, uncovering patterns and trends that can enhance business strategies and optimize processes.
