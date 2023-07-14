@@ -42,34 +42,12 @@ With my diverse skill set spanning data science, data analysis, web development,
 
 >Professional Certificates
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="" width="48" height="48" alt="#" />
-      </a>
-      <br>Data Scietist & Analytics.
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/google.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>IT Automation with Python Professional
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/cyberly.png" width="48" height="48" alt="c" />
-      </a>
-      <br>CompTIA Network+
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="c" />
-      </a>
-      <br>Linux System Administration
-    </td>
-     </tr>
-</table>
+<ul>
+  <li>Nasscomm Data Analytics Certificate</li>
+  <li>IBM Data Scientist Certificate</li>
+  <li>ExcelR Data Analytics Certificate</li>
+</ul>
+
 
 
 
