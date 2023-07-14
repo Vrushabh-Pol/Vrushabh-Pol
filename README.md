@@ -46,15 +46,15 @@ With my diverse skill set spanning data science, data analysis, web development,
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://excelrcom.b-cdn.net/assets/media/general/logo_white_204.png" width="48" height="48" alt="#" />
+        <img src="https://excelrcom.b-cdn.net/assets/media/general/logo_white_204.png" width="100" height="48" alt="#" />
       </a>
       <br>Data Scientist
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/google.png" width="48" height="48" alt="Python" />
+        <img src="https://excelrcom.b-cdn.net/assets/media/general/logo_white_204.png" width="100" height="48" alt="Python" />
       </a>
-      <br>IT Automation with Python Professional
+      <br>Data Analyst
     </td>
     <td align="center" width="96">
       <a href="#">
