@@ -16,7 +16,7 @@
 
  <br>
   
-Hi, I'm [Vrushabh Pol](http://vrushabh-pol), I am a multifaceted professional with expertise in various fields. As a [Data Scientist], I have a deep understanding of statistical analysis and machine learning techniques. I excel at extracting meaningful insights from complex datasets and leveraging them to drive data-driven decision-making. Additionally, my skills as a [Data Analyst] allow me to analyze and interpret data, uncovering patterns and trends that can enhance business strategies and optimize processes.
+Hi, I'm [Vrushabh Pol](http://vrushabh-pol), I am a multifaceted professional with expertise in various fields. As a [Data Scientist](), I have a deep understanding of statistical analysis and machine learning techniques. I excel at extracting meaningful insights from complex datasets and leveraging them to drive data-driven decision-making. Additionally, my skills as a [Data Analyst] allow me to analyze and interpret data, uncovering patterns and trends that can enhance business strategies and optimize processes.
 
 In the realm of [Web development] and [Software development], I possess a strong command of programming languages and frameworks. I can create dynamic and interactive websites, ensuring a seamless user experience. My expertise extends to developing robust software applications, employing agile methodologies and incorporating cutting-edge technologies to deliver efficient and scalable solutions.
 
