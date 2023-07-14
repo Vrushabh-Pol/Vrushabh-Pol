@@ -3,7 +3,6 @@
 <h2 align="center">
  <a>I Think, I Love Data, More Than Myself.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
 </h2>
-
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
 <h2 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Vrushabh+Pol;I+am+a+Data+Scientist;I+am+a+Data+Analyst;I+am+a+Software+Developer;I+am+a+Web+Developer;I+am+an+Ethical+Hacker;I+am+a+Cyber+Expert">
