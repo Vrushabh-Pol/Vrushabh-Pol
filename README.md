@@ -45,8 +45,8 @@ With my diverse skill set spanning data science, data analysis, web development,
 
 <h2 align="left" id="Vrushabh-Pol">Certificates</h2>
 
->Professional Certificates
-
+>Professional Certificates 
+[View Certificate's](https://github.com/Vrushabh-Pol/Certificates.git)
 <ul>
   <li>Data Scientist & Analytics Certificate From NASSCOMM , IBM and ExcelR</li>
   <li>Ethical Hacking Certificate From Udemy</li>
